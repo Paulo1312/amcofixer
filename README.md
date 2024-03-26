@@ -56,7 +56,7 @@ And then everything goes in the opposite direction.
 
 ### Usage
 
-If you have a rast, then clone the repository and
+If you have a rust, then clone the repository and
 
 > cargo build release
 
