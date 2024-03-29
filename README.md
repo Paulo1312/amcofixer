@@ -24,13 +24,13 @@
 
 Если у вас есть раст, то клонируем репозиторий и
 
-> cargo build release
+    cargo build release
 
 Если нет, то в папке релиз поищи под свою систему
 
 После этого в терминале
 
-> ./amcofixer **конфиг**
+    ./amcofixer **конфиг**
 
 И добавляешь new_**конфиг** в Amnezia
 
@@ -58,12 +58,12 @@ And then everything goes in the opposite direction.
 
 If you have a rust, then clone the repository and
 
-> cargo build release
+    cargo build release
 
 If not, then look in the release folder for your system
 
 After that in the terminal
 
-> ./amcofixer **config**
+    ./amcofixer **config**
 
 And add new_**config** to Amnezia
