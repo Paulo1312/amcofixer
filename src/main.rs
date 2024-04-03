@@ -1,7 +1,7 @@
+use amcofixer_lib::fixer;
 use std::fs::File;
 use std::env;
 use std::io::prelude::*;
-use amcofixer::fixer;
 
 fn main() {
     let args: Vec<String> = env::args().collect();
